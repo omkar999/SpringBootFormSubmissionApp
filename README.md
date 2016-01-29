@@ -4,7 +4,7 @@ This is a simple spring boot jdbc template application developed in `Eclipse` wi
 
 Run the `DemoApplication.java` as a java Application. Then the embedded Tomcat Server will be started and the application will be deployed.
 
-The URL `http://localhost:8080/` will retunr `index.html` page.
+The URL `http://localhost:8080/` will return `index.html` page.
 Enter the `firstname` and the `lastname` and click on `submit` button.
 Then these details will be added to the `user` table in MySQL Database.
 
